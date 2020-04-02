@@ -10,7 +10,7 @@ Also, this page is written in markdown, if you don't know how that works, it's t
 
 ## Update Log (new to old)
 
-**2020-04-02**: Please press f for our dear OwlBot, as they are finally kicked form the server.The source code for the bot has also been made public.
+**2020-04-02**: Please press f for our dear OwlBot, as they are finally kicked form the server. [https://github.com/DynTylluan/OwlBot](The source code for the bot has also been made public).
 
 **2020-01-20**: OwlBot's last message is sent; the sweet words of "I shitted" are said at 01:44 UTC. - Owl
 
