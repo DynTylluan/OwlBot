@@ -1,10 +1,10 @@
 # I Miss My Wife: A Look At OwlBot
 
-_OwlBot_ is a terrible idea from the mind of graphic artist and systems engineering student, [Randy Asui](https://tehleroy.neocities.org/), with assistance from local fucks; [Cass Python](https://owlman.neocities.org/), who can easily be compared to Marmite- as in too much of them is a bad thing, and also help from [Heather of wastebin](https://wastebin.neocities.org/), the token woman who looks rather good in fishnet stockings, OwO and all of that. ~~Despite all of the help Randy has gotten, he still insists on making this project closed source. Hmm.~~ The copyright for it falls under the MIT License.
+_OwlBot_ was a terrible idea from the mind of graphic artist and systems engineering student, [Randy Asui](https://tehleroy.neocities.org/), with assistance from local fucks; [Cass Python](https://neozones.club/~owly/), who can easily be compared to Marmite- as in too much of them is a bad thing, and also help from [Heather of wastebin](https://wastebin.neocities.org/), the token woman who looks rather good in fishnet stockings, OwO and all of that. ~~Despite all of the help Randy has gotten, he still insists on making this project closed source. Hmm.~~ The copyright for it falls under the MIT License.
 
-As the name suggests, _OwlBot_ is a bot, the bot was made for use on Discord, ~~currently the only server it is on is [Lerowlia](https://tehleroy.neocities.org/discord.html)~~ with no plans to add the bot to other servers. To edit the bot, click on `index.js`~~, once you make an edit, make a note of it below.~~
+As the name suggests, _OwlBot_ is a bot, the bot was made for use on Discord, ~~currently the only server it is on is [Lerowlia](https://tehleroy.neocities.org/discord.html)~~ with no plans to add the bot to other servers or even bring it back online. To edit the bot, click on `index.js`~~, once you make an edit, make a note of it below.~~
 
-If the bot is offline (this can happen time-to-time), click on [this URL](https://owlman-bot.glitch.me/) to turn it on again.
+If the bot is offline (this can happen time-to-time), click on [this URL](https://owlman-bot.glitch.me/) to turn it on again (this URL will do nothing).
 
 Also, this page is written in markdown, if you don't know how that works, it's the same as Discord, but just to be safe, there is an HTML to markdown converter [here](https://www.browserling.com/tools/html-to-markdown).
 
